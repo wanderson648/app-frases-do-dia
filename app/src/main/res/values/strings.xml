@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FrasesDoDia</string>
+    <string name="new_phrase">Nova frase</string>
+    <string name="phrase">Um pequeno pensamento positivo pela manhã  pode mudar todo o seu dia.</string>
+</resources>
